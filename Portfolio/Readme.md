@@ -45,7 +45,7 @@ The project is structured as follows:
 
 ### Usage
 
-To view Mohamed Khalifa's portfolio and explore his work and skills, you can visit the live website [here](#https://mohamedkhalifa11.github.io/CodSoft/Portfolio).
+To view Mohamed Khalifa's portfolio and explore his work and skills, you can visit the live website [here](https://mohamedkhalifa11.github.io/CodSoft/Portfolio).
 
 ## Conclusion
 
